@@ -1,0 +1,9 @@
+name: JANCLUB-Shop
+version: 1.0.0
+main: me.janclub.shop.ShopPlugin
+api-version: '1.21'
+depend: [Vault]
+commands:
+  shop:
+    description: JANCLUB mağazasını açar
+    usage: /shop
